@@ -1,0 +1,73 @@
+Guide Layer:
+============
+step 1: layer 1 : draw one circle.
+step 2: create motion guide layer
+        draw line + bend
+	or
+	use pencil tool
+step 3: move circle start point of line.
+step 4: select 40th frame
+        insert frame - guide layer
+        insert keyframe - layer
+	move circle last point of line.
+step 5: create motion tween in layer
+step 6: test movie.
+
+Mask Layer:
+==========
+
+step 1: insert one image + size alter
+step 2: create layer2. + insert circle with white color + remove border.
+step 3: layer2 --> right click --> mask + remove lock (layer2)
+step 4: select any frame (40th frame) 
+        layer2(circle)--> insert key frame 
+        layer1(photo) --> insert frame   
+        layer2 (select 40th frame )
+	+ move circle anther place
+step 5: layer 2 (lock-close) 
+step 6: test movie + save.
+
+
+rotate image continously:
+========================
+step 1: open photoshop + insert image + create new window
+step 2: copy inserted image
+step 3: new window --> draw circle --> ctrl + enter (outline)
+        (ctrl + alt + shift + v - paste inside the circle)
+step 4: save (jpeg format )
+
+step 5: open flash
+step 6: insert circle shape image.
+step 7: 40th frame select --> apply insert key frame.
+step 8: selete transform tool --> rotate left to right.
+step 9: create motion tween --> 
+step 10: save movie.
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
