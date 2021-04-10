@@ -1,0 +1,257 @@
+MOVING BALL:
+============
+STEP 1: DRAW OVAL and remove outline
+STEP 2: select 35th frame and right click (insert key frame)
+step 3: ball move to right side corner
+step 4: right click inbetween frame --> create motion tween
+step 5: run-->enter (one time same window)
+        run --> ctrl+enter (continous animation o/p window)
+
+control fast or slow:
+=====================
+
+	frame rate:
+
+		 properties: 
+				frame rate : 12.0 fps(frame per second)
+
+				or
+
+				time line: double click --> frame rate -->change speed --> ok.
+
+
+photo rotate animation :
+========================
+
+step 1:
+	import one image (file -->import->import to stage -->image)
+
+step 2:
+	select 40th frame
+
+	right click --> insert key frame
+step 3:
+
+	inbetween frames --> right click --> create motion tween
+	select or click 40th frame.
+
+step 4:
+	select free transform tool
+
+step 5:
+	image -->center dot -->click+drag right
+
+step 6: run
+
+
+Text Animation:(BASIC)
+===============
+	step 1: type your text (with size)
+	step 2: ctrl+b (2 times)
+	step 3: apply gradient (multicolor)
+	step 4: 40th frame selet
+		right click --> insert key frame
+		
+	step 5:move text to otherside
+	step 6: inbetween frame--> right click --> 
+create motion tween
+	step 7: ctrl+enter(run)
+
+Text Animation:(ADVANCED)
+===============
+	step 1: type your text (with size)
+	step 2: ctrl+b (2 times)
+	step 3: click selection tool-->right click the text 
+		-->distrubute to layes
+	step 4: layer 1 -->delete
+	        rename layer2,3,4....
+	step 5: apply color
+	step 6: move text various place. 
+	step 7: 50th frame select(all layers) -->rc
+		-->insert key frame
+	step 8: layer2(A)--> 50th frame select(dot) 
+		--> move a letter to screen middle.
+		inbetween frames --> create motion tween.
+		.....
+		B C same process
+	step 9: run.
+
+shape tween:(basic)
+============
+	step 1: draw one oval without outline
+
+	step 2: 40th frame-->f6 or rc-->insert key frame
+
+	step 3: draw any other shape (without outline)
+
+	step 4: first frame click in timeline(dot)
+
+	step 5: properties --> tween --> shape
+
+	step 6: run
+
+shape tween:(basic - 2)
+======================
+	step 1: draw one oval without outline
+
+	step 2: 40th frame-->f6 or rc-->insert key frame
+
+	step 3: draw rectangle shape (without outline)
+
+	step 4: first frame click in timeline(dot)
+
+	step 5: properties --> tween --> shape
+	
+	step 6: 40th frame select(dot-click)
+
+	step 7: delete circle.
+	
+	step 8 : run
+image slide show:
+=================
+	step 1:
+		file-->import--> import to stage--> selct 3 images
+	step 2:
+		press delete button
+	step 3:
+		set all images in line format using library (ctr+L)
+	step 4: 40th frame select and f6.
+	
+	step 5: move all images to right 
+
+	step 6: inbetween frame -->rc-->create motion tween
+	
+	step 7: run(ctrl+enter)
+
+zoomin/out image:(basic model)
+=================
+	step 1:
+		file -->import -->import to stage --> select one image.
+
+	step 2:
+		decrease image size
+
+	setp 3:
+		select nth frame
+
+	step 4:
+		f6 (insert key frame or right click-->insert key frame)
+
+	step 5:
+		inbetween frame -->rc-->create motion tween
+	
+	step 6:
+		increase image size
+
+	step 7: run (ctrl + enter)
+
+
+
+zoomin/out image:(advanced model 2 layers)
+=================
+	step 1:
+		file -->import -->import to stage --> select one image.
+
+	step 2:
+		decrease image size
+
+	setp 3:
+		select nth frame
+
+	step 4:
+		f6 (insert key frame or right click-->insert key frame)
+
+	step 5:
+		inbetween frame -->rc-->create motion tween
+	
+	step 6:
+		increase image size
+
+	step 7: insert new layer
+		new layer must be bottom
+
+	step 8: insert new picture in new layer
+
+	step 9: run (ctrl + enter)
+
+TEXT ANIMATION(welcome) ONE BY ONE LETTER:
+=================================
+step 1: type your text (with size)
+step 2: ctrl+b (2 times)
+step 3: click selection tool-->right click the text 
+		-->distrubute to layes
+step 4: layer 1 -->delete
+	        rename layer2,3,4....
+step 5: apply color
+step 6: move text various place. 
+step 7: select all layer nth frame(ex:10)
+	press f6(insert key frame)
+step 8:
+	select w layer-->10th frame dot click-->move w letter inside screen.
+	w -->inbetween frame-->create motion tween
+
+step 9: same step 7, but frame select (ex: 20)
+
+step 10: step 8
+	..............
+	..............
+step 11: run(ctrl+enter)
+
+mask layer:
+===========
+
+step 1: layer 1 --> background image
+step 2: layer 2(add new) --> circle without outline
+step 3: layer 2 --> right click --> mask
+step 4: remove locks both layer
+step 5: layer 2 --> select 10th frame full
+	(upto 2 layer) -->f6
+step 6: one click window outside --> move circle
+
+step 7: step 5
+step 8: step 6
+	........
+step last: layer2 (circle) --> 
+create motion tween to all -->lock both layer
+	run.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+		
+
+		
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
