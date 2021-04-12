@@ -1,0 +1,30 @@
+Guide Layer:
+============
+step 1:draw circle(layer1)
+step 2:right click on layer1 -->click add motion guide
+       -->draw curve using pen or pencil 
+step 3: right click on guide layer's 50th frame -->insert frame(f5)
+step 4: right click on layer1's 50th frame -->insert key frame(f6)
+setp 5: click frame1 on layer1-->click selection tool-->
+click&drag on circle's center position and place staring postion of curve.
+
+setp 6: click frame50 on layer1
+click&drag on circle's center position and place ending postion of curve.
+step 7: in layer inbetween --> right click -->create motion tween.
+step 8: run
+
+
+	or
+
+step 1: layer1 -->right click -->select add motion guide
+step 2: goto layer1-->click frame1-->draw circle without outline
+step 3:guidelayer-->click frame1-->draw zigzag line using pen tool
+step 4: click selection tool
+setp 5: click frame1 on layer1
+click&drag on circle's center position and place staring postion of curve.
+
+setp 6: click frame50 on layer1
+click&drag on circle's center position and place ending postion of curve.
+step 7: in layer inbetween --> right click -->create motion tween.
+step 8: run
+      
