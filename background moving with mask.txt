@@ -1,0 +1,18 @@
+background moving with mask:
+============================
+step 1:
+	file -->import -->import to stage
+	-->choose 3 imges -->open
+
+step 2: do image slide show
+
+step 3: add new layer(2)
+
+step 4: layer2 -->rc-->mask
+        and remove lock on layer2 
+
+step 5: layer2-->draw circle without outline.
+
+step 6:lock layer1 and layer2
+
+step 7:run
