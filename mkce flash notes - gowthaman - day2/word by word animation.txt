@@ -1,0 +1,17 @@
+word by word animation:
+================
+step 1:
+	layer1-->type one sentence (3 words) ex: welcome to all
+
+step 2:
+	ctrl+b(2 times) (text to shape)
+step 3:
+	choose selection tool --> select "to all" text -->cut (ctrl+x)
+
+step 4:  insert new layer --> paste (ctrl+v)
+
+step 5: choose selection tool -->select "all" text -->cut(ctrl+x)
+
+step 6: insert new layer --> paste(ctrl+v)
+step 7: confirm all 3 layers whether single word?
+step 8: as usal animation

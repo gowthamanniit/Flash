@@ -1,0 +1,24 @@
+GUIDE Layer:
+============
+	step 1: layer1 -->  draw oval without outline
+
+	step 2: layer1 --> right click --> add motion guide
+
+	step 3: in Guide Layer --> 50th frame -->f5 or (right click -->insert frame)
+
+	step 4: layer1 --> 50th frame --> insert key frame (f6)
+
+	step 5: in guide layer -->1st frame click--> 
+               draw one curve using pen or pencil tool
+	       -->click first frame in guide layer.	
+
+	step 6: selection tool click
+	
+	step 7: drag the oval and place start point of curve.
+	step 8 --> click 50th frame in layer or guide layer.
+	step 9: drag the oval and place end point of curve.
+	step 10: in between layer1 -->right click -->create motion tween
+	step 11: run
+	
+
+	

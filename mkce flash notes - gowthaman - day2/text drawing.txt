@@ -1,0 +1,12 @@
+TEXT DRAWING:
+==========
+
+	STEP 1:  layer1-->Type one letter (eg: K)-->ctrl+b
+	step 2:  change white color
+	step 3:  click lasso tool --> select 'k' word single part .
+	step 4: color fill
+	step 5: f6 
+	step 6: color fill
+	step 7: step 3 ............
+		
+	
